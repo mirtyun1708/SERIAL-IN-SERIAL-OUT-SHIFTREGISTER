@@ -32,18 +32,15 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **PROGRAM**
 
-![Screenshot 2024-12-10 112248](https://github.com/user-attachments/assets/08d5e633-4063-46f1-b500-7a5650f2e3ba)
 
 
 **RTL LOGIC FOR SISO Shift Register**
 
-![Screenshot 2024-12-10 112507](https://github.com/user-attachments/assets/00d28cb9-7792-4d9c-840c-7990fb212024)
 
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
-![Screenshot 2024-12-10 112705](https://github.com/user-attachments/assets/004293f0-5568-43ef-8ea3-e992a73bd0bd)
-![Screenshot 2024-12-10 112712](https://github.com/user-attachments/assets/c76d88c2-e883-4717-9171-e09f2fd71cc1)
+
 
 
 **RESULTS**
